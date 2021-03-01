@@ -1,2 +1,2 @@
 # theme-Hexo-BFHUI
-a good theme! Dome: https://www.imacosps.tk
+a good theme! Dome: https://imacosps.tk
